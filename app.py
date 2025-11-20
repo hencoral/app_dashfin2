@@ -1,5 +1,5 @@
 import streamlit as st
-
+# codigo inicial de la app
 st.set_page_config(
     page_title="Dashboard Financiero Cronhis",
     layout="wide",
