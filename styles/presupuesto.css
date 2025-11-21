@@ -1,0 +1,23 @@
+/* styles/presupuesto.css */
+
+h1 {
+  font-weight: 800;
+}
+
+/* Caja de mensaje informativo personalizada */
+.presupuesto-info-box {
+  background-color: #e6f1ff;
+  border-radius: 0.75rem;
+  padding: 1rem 1.5rem;
+  color: #1d4ed8;
+  font-size: 0.95rem;
+}
+
+/* Botón primario en rojo suave */
+.stButton > button {
+  background-color: #f44336 !important;
+  color: white !important;
+  border-radius: 0.5rem !important;
+  border: none !important;
+  font-weight: 600 !important;
+}
